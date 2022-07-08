@@ -58,3 +58,12 @@ end
 ```lua
 /c game.forces["enemy"].kill_all_units()
 ```
+
+## Peaceful
+This will enable peaceful mode. Newly spawned biters will not attack unless provoked.
+```lua
+/c game.player.surface.peaceful_mode = true
+```
+
+
+##### Amended 2022/07/08
