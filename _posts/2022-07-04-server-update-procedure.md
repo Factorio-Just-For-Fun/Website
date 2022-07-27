@@ -42,6 +42,22 @@ hq+v5cp9UXXhAkBRNUP5+SX/N9kK3nOEWb4IbLB48EgOLzv/v0D9
 CiINA==<<<
 ```
 
+Scout Has No Clue How To Make A String
+```
+>>>eNpjZGBksGUAgtWrVtkzMBxw4GBJzk/MAQo4gDBIlCs5v6Agt
+Ug3vygVJgxUaM+ZXFSakqqbn5kD4sEVp+al5lbqJiUWAxU32MMwR
+2ZRfh66CazFJfl5qci6WUuKUlOLkTVylxYl5mWW5kL0HgCq0rIDY
+QZGX/3dQQXiDAwg/L+eQeH/fxAGsh4ATQNhBsYGkA4GRqAYDLAm5
+2SmpTEwKDgCsRNYESNjtcg694dVU+wZIWr0HKCMB1CRA0kwEU8Yw
+88BpxTQSAhl4sA4ayYIvLRnNAaDz0gMiKUlQCugyjkcEAyIZAtIk
+pExUzbUV6D0vR3jn5UfL/kmJdgz9r7duuD7sQ12QEl2kH1McAJi4
+U6YVxiQvAKRumnPePYMCLyxZ2QF6RABEQ4WQOKANzMDowAfkLWgB
+0goyMB9YgczRsSBMQ0MvsF88hjGuGyP7g8VB0YbkOFyIOIEiGBFB
+A7QZYwQpkO/A6ODPExWEqEEqN+IAdkNKQgfnoRZexjJfjSHqDggI
+gLTH2giKg5YooELZGEKnHjBDHcNMDwvsMN4DvMdGJlBDJCqL0AxC
+A+a1MFGQWgBB3BwM4OTHURIwYEhq/D3HwBvr6cj<<<
+```
+
 
 ## Updating the Server Software
 To update the Clusterio Control panel, first, stop all instances of the game from the Clusterio panel. Then, stop the panel via systemd:
