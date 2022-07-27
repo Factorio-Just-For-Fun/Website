@@ -65,5 +65,18 @@ This will enable peaceful mode. Newly spawned biters will not attack unless prov
 /c game.player.surface.peaceful_mode = true
 ```
 
+## Map Exchange String
+This will save the exchange string to "script-output" when in singleplayer.
+```lua
+/c game.write_file("string", game.get_map_exchange_string())
+```
 
-##### Amended 2022/07/08
+## Generate Map
+This will generate a large amount of the map for previewing
+```lua
+/c
+local radius=2000
+game.player.force.chart(game.player.surface, {{x = -radius, y = -radius}, {x = radius, y = radius}})
+```
+
+##### Amended 2022/07/27
