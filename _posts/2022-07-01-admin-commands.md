@@ -90,3 +90,21 @@ I am unsure if this replaces the tag in persistent storage or not.
 ```lua
 /sc game.players["zampaman"].tag = "- Tag Goes Here"
 ```
+
+## Veterans Jail
+This will allow veterans to jail others.
+```lua
+/c
+local Roles = require 'expcore.roles'
+Roles.get_role_from_any("Veteran").allowed_actions["command/jail"] = true
+Roles.get_role_from_any("Veteran").allowed_actions["command/unjail"] = true
+```
+Undo:
+```lua
+/c
+local Roles = require 'expcore.roles'
+Roles.get_role_from_any("Veteran").allowed_actions["command/jail"] = false
+Roles.get_role_from_any("Veteran").allowed_actions["command/unjail"] = false
+```
+
+### Amended 2022/07/29 by Scout
