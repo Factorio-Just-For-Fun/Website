@@ -73,10 +73,12 @@ This will save the exchange string to "script-output" when in singleplayer.
 
 ## Generate Map
 This will generate a large amount of the map for previewing
+{% raw %}
 ```lua
 /c
 local radius=2000
 game.player.force.chart(game.player.surface, {{x = -radius, y = -radius}, {x = radius, y = radius}})
 ```
+{% endraw %}
 
 ##### Amended 2022/07/27
