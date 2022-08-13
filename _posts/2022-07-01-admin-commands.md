@@ -107,4 +107,15 @@ Roles.get_role_from_any("Veteran").allowed_actions["command/jail"] = false
 Roles.get_role_from_any("Veteran").allowed_actions["command/unjail"] = false
 ```
 
-### Amended 2022/07/29 by Scout
+## View Statistics
+The first number is maps played, and the second is playTime - AfkTime, in hours. Note that this only applies for tracked data (ie. from when we started using the database)
+```lua
+/sc
+local PlayerData = require 'expcore.player_data'
+local Statistics = PlayerData.Statistics
+local stats = Statistics:get("i_cant_think_of_a_username", {})
+local playTime, afkTime, mapCount = stats.Playtime or 0, stats.AfkTime or 0, stats.MapsPlayed or 0
+game.player.print(mapCount)
+game.player.print((playTime - afkTime) / 60)
+```
+### Amended 2022/08/12 by Scout
