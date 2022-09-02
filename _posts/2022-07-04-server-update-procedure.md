@@ -74,6 +74,23 @@ D+aQ1QcEBGB6Q80ERUHLNHABbIwBU68YIa7BhieF9hhPIf5DozMI
 AZI1RegGIQHTepgoyC0gAM4uJnByQ4i9MGeYf7dTT8AAVWmvw==<
 <<
 ```
+
+Scout Tweaks Some Ore Settings
+```
+>>>eNpjZGBkcGEAgtWrVtkzMBxw4GBJzk/MAQoAeQwOQOTAlZxfU
+JBapJtflApUZAdSBMKcyUWlKam6+ZlQxRBRrtS81NxK3aTE4lSQX
+qAQUKrBniOzKD8P3QTW4pL8vFRk3awlRampxSANMMxdWpSYl1maC
+9ILMnD1Ki07EGZg7DWe4LKAn4EBhP/XMyj8/w/CQNYDoIkgzMDYA
+DTBgYERKAYDrMk5mWlpDAwKjkDsBFbEyFgtss79YdUUe0aIGj0HK
+OMBVORAEkzEE8bwc8ApBTQSQpk4MM6aCQIv7RmNweAzEgNiaQnQC
+qhyDgcEAyLZApJkZMyUDfUVKH1vx/hn5cdLvkkJ9oy9b7cu+H7sg
+B1Qkh1kHxOcgFi4E+YVBiSvQKRu2jOePQMCb+wZWUE6RECEgwWQe
+LAUaJ0AH5C1oAdIKMjAfWIHM0bEgTENDL7BfPIYxrhsj+4PFQdGG
+5DhciDiBIhgRQQO0GWMEKZDvwOjgzxMVhKhBKjfiAHZDSkIH56EW
+XsYyX40h6g4ICIC0x9oIioOWKKBC2RhCpx4wQx3DTA8L7DDeA7zH
+RiZQQyQqi9AMQgPkn8gRkFoAQdwcDODkx1ESMGBIdzv6VsAKeyoN
+A==<<<
+```
 ## Updating the Server Software
 To update the Clusterio Control panel, first, stop all instances of the game from the Clusterio panel. Then, stop the panel via systemd:
 ```bash
