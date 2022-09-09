@@ -91,6 +91,22 @@ XsYyX40h6g4ICIC0x9oIioOWKKBC2RhCpx4wQx3DTA8L7DDeA7zH
 RiZQQyQqi9AMQgPkn8gRkFoAQdwcDODkx1ESMGBIdzv6VsAKeyoN
 A==<<<
 ```
+
+Scout Hates You
+```
+>>>eNp1U78vA3EUf081qhI6dJEIHTpJSoLBIHePSMRi8g9U7xpNq
+se1HTAwGAwSi4VF50psBos0sSAkEgsbIUJiESK2eu++/faa4uXe+
+37u8973/fh+7xAQJoHloNxvAlQo1JpyktmDctlgkvihcMpZXLTdh
+OPaAOumUOJqT7lFy044mSyzhmbDds5eWE7MJfMcXPEyyqZQxnVyz
+RmC+YKTYwZ8puDadl7FKO0ouslcprig9npR0qoBaC1ln0tdAKLVN
+YhVq6KM7jlEFHDdK4/MaQmmspl0GiA2zjrhBSGuRg+nHlZ2TFQxA
+1QD9zWmMqeZaQ1m6F8Xp1TLCOHersiricOefDQAVbTAJWrhIfKBc
+m6IE/F9/nHz6PvTqLGWibNPkaV8/53Bzjap11I3quCxHgUaRlGuO
+xOvLkXeTAzKjqgYGmVT2mIT6dQo1lOfxNBpooRpT770JI8a3JjNc
+8QJxyR5r5gzMUH/cLgzVJC2CalPe7v9EN4/BI09WP6E57rsaUP9p
+kbi5F/E7zmamDj9cQ1hKWjVzUug3g2f53WbfqN9woAAifpkTr2p/
+0elUmuEvOMOeJ+domIEt4MnFz8e4KEB<<<
+```
 ## Updating the Server Software
 To update the Clusterio Control panel, first, stop all instances of the game from the Clusterio panel. Then, stop the panel via systemd:
 ```bash
