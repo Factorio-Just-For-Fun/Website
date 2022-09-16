@@ -123,6 +123,20 @@ BywRAM4cFPgxAtmuGuA4XmBHcZzmO/AyAxigFR9AYpBeJC0DzEKQ
 gs4MIoAKWZwsoMIKTgw7K618gYAXKWh5Q==<<<
 ```
 
+## Starter Messages
+Place these with `/admin-marker` to make them undeletable by regular users.
+
+```
+https://discord.gg/ehHEDDnPWA
+Copy & Paste <@&873708475304275978> into chat to call for an admin (big issues)
+Game is set in expensive mode = intermediate products cost is higher => ratios of recipes are different
+```
+
+Removed Messages
+```
+Copy & Paste <@371271197746528258> into chat to call elefetor (small issues | i'm the most times online)
+```
+
 ## Generate Map
 This will generate a large amount of the map for previewing before creating a new map
 {% raw %}
