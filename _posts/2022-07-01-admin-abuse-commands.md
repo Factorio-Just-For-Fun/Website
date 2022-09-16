@@ -39,9 +39,21 @@ end
 ```
 
 ## Chart All Generated Map
-Note this will be visible to everyone.
+Note this will be visible to everyone. Note that ALL means ALL. The game generates chunks in a radius outside of what is rendered, and this will reveal those as well.
+
+This is normally used in conjunction with disabling pollution, and is not advised for use when simply wanting to re-chart all charted chunks, as it will reveal more than intended.
 ```lua
 /c game.player.force.chart_all()
+```
+
+## Un-Chart All Map
+In the event that the previous warning is disregarded and a lot of the map is revealed early-on, this command will reset all charting.
+```lua
+/c local surface = game.player.surface
+local force = game.player.force
+for chunk in surface.get_chunks() do
+  force.unchart_chunk({x = chunk.x, y = chunk.y}, surface)
+end
 ```
 
 ## Kill all Biters+Spawners in currently generated map
