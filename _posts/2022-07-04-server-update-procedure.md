@@ -107,6 +107,32 @@ xOvLkXeTAzKjqgYGmVT2mIT6dQo1lOfxNBpooRpT770JI8a3JjNc
 kbi5F/E7zmamDj9cQ1hKWjVzUug3g2f53WbfqN9woAAifpkTr2p/
 0elUmuEvOMOeJ+domIEt4MnFz8e4KEB<<<
 ```
+Scout Mixes Things Up
+```
+>>>eNpjZGBkcGEAgtWrVtkzMByw52BJzk/MYWBoAPIcHIASDlzJ+
+QUFqUW6+UWpyMKcyUWlKam6+ZlIig/Yc6XmpeZW6iYlFqeCuCCFI
+GmOzKL8PHQTWItL8vNQRUqKUlOLISIQzF1alJiXWZoL0evgsHqVl
+h0IMzCaMv7eVyDOwADC/+sZFP7/B2Eg6wHQJBBmYGwAm8IIFIMB1
+uSczLQ0BgYFRyB2AitiZKwWWef+sGqKPSNEjZ4DlPEAKnIgCSbiC
+WP4OeCUAhoJoUwcGGfNBIGX9ozGYPAZiQGxtARoBVQ5hwOCAZFsA
+UkyMva+3brg+7EDdox/Vn685JuUYM9o6Cry7oPROjugJBfIPiY4A
+bFwJ8wrDEhegUjdtGc8ewYE3tgzsoJ0yIEIBwsgsaAHSAjwwVgKM
+nCf2MGMEXFgTAODbzCfPIYxLtuj+0PFgdEGbsMJEMGKCBygyxghT
+Id+B0YHeZisJEIJUL8RA7IbUhA+PAmz9jCS/WgOUXFARASmP9BEV
+BywRAM4cFPgxAtmuGuA4XmBHcZzmO/AyAxigFR9AYpBeJC0DzEKQ
+gs4MIoAKWZwsoMIKTgw7K618gYAXKWh5Q==<<<
+```
+
+## Generate Map
+This will generate a large amount of the map for previewing before creating a new map
+{% raw %}
+```lua
+/c
+local radius=3000
+game.player.force.chart(game.player.surface, {{x = -radius, y = -radius}, {x = radius, y = radius}})
+```
+{% endraw %}
+
 ## Updating the Server Software
 To update the Clusterio Control panel, first, stop all instances of the game from the Clusterio panel. Then, stop the panel via systemd:
 ```bash
