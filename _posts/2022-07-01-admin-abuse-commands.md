@@ -71,6 +71,12 @@ end
 /c game.forces["enemy"].kill_all_units()
 ```
 
+## Bonus Inventory Space
+Will add 30 slots to all players present and future
+```lua
+/c game.player.force.character_inventory_slots_bonus = 30
+```
+
 ## Peaceful
 This will enable peaceful mode. Newly spawned biters will not attack unless provoked.
 ```lua
