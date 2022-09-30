@@ -123,6 +123,22 @@ BywRAM4cFPgxAtmuGuA4XmBHcZzmO/AyAxigFR9AYpBeJC0DzEKQ
 gs4MIoAKWZwsoMIKTgw7K618gYAXKWh5Q==<<<
 ```
 
+Scout Wants Mean Biters
+```
+>>>eNp1UjtLA0EQnjEGYwQRCYggmiKVEMFHYSG5URCx0N9gHhcIa
+C5ckkIttAjYRGxstDGtEdJZ2AUEUVDwUdkpNgoqiqKNEHdus3dn1
+IGZ+/ab2fl2dg8BYRKaAPbKZQ2AyNccN6LzAKvWCkTwx41MRjfDh
+qm76da4mU/oYSPlKq5qfj2tLyyGY9GszkWCIk77UqaRbuzgzeaM9
+E8mZ+p6VjLS2/JmNJ3KL8i9RHvl/gg74OjFYiHTBcBeW4FgrcYu0
+I3oxA64asmj4JR54/OpZBIgOC58wioCXA5Upm6XNjWUNQNUBzd1p
+hpTzLQCs/RviltaNkK4vcX2oOGwZW8uIEVzQqJe7iMHyGSBk4jrT
+/ulz6NqBL92Xy9nYnMaDk4Gnl+GKhGR9LNekx2k4IEaBVyjyNS1h
+menbI8aenlHLwcaFaFUFKGjXaFgjz1JRLUJECYt+1CT3ClwpTXOE
+SIcsxWOOXidyxEnQwlpg5D6VLbbKRH7h8B9hoQz4YmSPXTpNxwkR
+M5D/J6jgQnRH89gXW7CDvce+zTiPs9b1Ip2CD0MuOpdcHIl/3/ZS
+n47CAPiw9n68BAkKHYurX0DmKihow==<<<
+```
+
 ## Starter Messages
 Place these with `/admin-marker` to make them undeletable by regular users.
 
