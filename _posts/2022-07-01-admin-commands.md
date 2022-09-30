@@ -32,6 +32,11 @@ game.player.force.friendly_fire = false
 game.player.force.artillery_range_modifier = 2
 game.player.force.technologies["atomic-bomb"].enabled=false
 game.player.force.technologies["atomic-bomb"].visible_when_disabled=true
+game.player.force.technologies["explosive-rocketry"].enabled=false
+game.player.force.technologies["explosive-rocketry"].visible_when_disabled=true
+game.player.force.technologies["rocketry"].researched = true
+game.player.force.recipes["rocket"].enabled=false
+
 ```
 
 ## Revert All
