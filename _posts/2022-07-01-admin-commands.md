@@ -15,6 +15,24 @@ game.player.force.technologies["artillery"].enabled=false
 game.player.force.recipes["artillery-targeting-remote"].enabled=false
 ```
 
+## Inventory Gift
+```lua
+/c game.player.force.character_inventory_slots_bonus = 30
+```
+
+## High-Artillery Map
+```lua
+/c
+game.player.force.friendly_fire = false
+game.player.force.artillery_range_modifier = 2
+game.player.force.technologies["atomic-bomb"].enabled=false
+game.player.force.technologies["atomic-bomb"].visible_when_disabled=true
+game.player.force.technologies["rocketry"].researched=true
+game.player.force.technologies["explosive-rocketry"].researched=true
+game.player.force.recipes["rocket"].enabled=false
+game.player.force.recipes["explosive-rocket"].enabled=false
+```
+
 ## Promote to Veteran from Console
 Does not require a relog.
 ```lua
