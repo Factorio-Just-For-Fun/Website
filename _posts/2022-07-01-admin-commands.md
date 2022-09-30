@@ -44,6 +44,18 @@ game.player.force.recipes["rocket"].enabled=false
 /c game.player.force.reset()
 ```
 
+## Delete Unrevealed Chunks
+Use this to force the game to redo some generation after changing map gen settings in /editor
+```lua
+/c local surface = game.player.surface
+local force = game.player.force
+for chunk in surface.get_chunks() do
+  if not force.is_chunk_charted(surface, chunk) then
+    surface.delete_chunk(chunk)
+  end
+end
+```
+
 ## Promote to Veteran from Console
 Does not require a relog.
 ```lua
