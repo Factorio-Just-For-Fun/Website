@@ -139,6 +139,23 @@ M5D/J6jgQnRH89gXW7CDvce+zTiPs9b1Ip2CD0MuOpdcHIl/3/ZS
 n47CAPiw9n68BAkKHYurX0DmKihow==<<<
 ```
 
+Scout's New Standard
+```
+>>>eNpjZGBkcANiIHCwZ2BocOBgSc5PzAFygbwD9qtXrbLnSs4vK
+Egt0s0vSgUqgAtzJheVpqTq5mfmIItypeal5lbqJiUWQxUzOIBoj
+syi/Dx0E1iLS/LzUpGtYi0pSk0thomA1HKXFiXmZZbmgvSuXqVlB
+xR3AGNGAZ+u3QXiDAwg/L+eQeH/fxAGsh4A9YMwA2MDRCVQDAqYJ
+JLz80qK8nN0i1NLSjLz0q0SSyuskjITizkM9EwNQEAWXUVufmZxS
+WlRKqoy1uSczLQ0BgYFR6ALnMG2MTJWi6xzf1g1xZ4RYpueA5TxA
+SpyIAkm4glj+DnglFKBMUyQzDEGg89IDIilJUAroKo4HBAMiGQLS
+JKRsfft1gXfjx2wY/yz8uMl36QAe0aP9Xtmfbo+yw4oyQ7yAhOcm
+DUTBHbCvMIAM/OBPVTqpj3j2TMg8MaekRWkQwRECPABiQU9KCwFG
+QaY0+xgxog4MKaBwTeYTx7DGJft0f0BDAgbkOFyIOIEiABbCHcZI
+4Tp0O/A6CAPk5VEKAHqN2JAdkMKwocnYdYeRrIfzSGYEYHsDzQRF
+Qcs0cAFsjAFTrxghrsGGJ4X2GE8h/kOjMwgBkjVF6AYhAfJRBCjI
+LSAAzi4mcHJDiKk4MBQk/p9AQAHJMFE<<<
+```
+
 ## Starter Messages
 Place these with `/admin-marker` to make them undeletable by regular users.
 
