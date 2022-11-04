@@ -163,6 +163,7 @@ Place these with `/admin-marker` to make them undeletable by regular users.
 https://discord.gg/ehHEDDnPWA
 Copy & Paste <@&873708475304275978> into chat to call for an admin (big issues)
 Game is set in expensive mode = intermediate products cost is higher => ratios of recipes are different
+Use /report <name> <reason> to report griefers/trolls
 ```
 
 Removed Messages
