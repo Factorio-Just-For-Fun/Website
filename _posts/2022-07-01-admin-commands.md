@@ -159,4 +159,10 @@ local playTime, afkTime, mapCount = stats.Playtime or 0, stats.AfkTime or 0, sta
 game.player.print(mapCount)
 game.player.print((playTime - afkTime) / 60)
 ```
+
+### Delete chunks 
+This command will delete 1 chunk where the playing is standing so make sure your in spactator mode 
+```lua
+/sc for chunk in game.player.surface.get_chunks() do if (chunk.x == math.floor(game.player.position.x / 32) and chunk.y == math.floor(game.player.position.y / 32)) then game.player.surface.delete_chunk(chunk) end end
+```
 ### Amended 2022/08/12 by Scout
