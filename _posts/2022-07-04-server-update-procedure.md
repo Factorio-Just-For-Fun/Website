@@ -184,7 +184,8 @@ game.player.force.chart(game.player.surface, {{x = -radius, y = -radius}, {x = r
 ## Updating the Server Software
 To update the Clusterio Control panel, first, stop all instances of the game from the Clusterio panel. Then, stop the panel via systemd:
 ```bash
-$ sudo systemctl stop factorio
+$ cd /opt/Control
+& ./update_factorio.sh
 ```
 
 If the above command fails, use the backup `docker-compose down`.
